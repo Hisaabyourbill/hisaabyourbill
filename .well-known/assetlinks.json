@@ -1,0 +1,15 @@
+
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.hisaab.hisaab",
+      "sha256_cert_fingerprints": [
+        "25:6D:56:48:92:15:F3:25:94:61:3A:51:50:DD:AD:24:A8:6A:6D:C9:49:9C:FE:10:6E:5B:A8:92:16:CF:D4:FB"
+      ]
+    }
+  }
+]
